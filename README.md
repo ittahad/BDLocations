@@ -11,7 +11,3 @@ Sample data format:
 | Dhaka 	 |  Dhaka 	  |  Dhaka GPO 	  |  Dhaka GPO 	    | 1000      |
 | Dhaka 	 |  Dhaka 	  |  Dhaka Main PO|  Dhaka Main PO  |	1100      |
 -----------------------------------------------------------------------
-....
-....
-
-(more)
