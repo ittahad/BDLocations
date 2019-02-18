@@ -4,7 +4,7 @@ This repository contains a sql file which includes all the Division, District, T
 Sample data format:
 -----------------------------------------------------------------------
 | division | district 	|  subordinate 	|  branch 	      | post_code | 	
-| -------  | --------   |  ------------ |  -------------- |---------  |
+| -------  | --------   |  ------------ |  -------------- | --------- |
 | Dhaka 	 | Dhaka 	    |  Demra 	      |  Demra 	        | 1360      |
 | Dhaka 	 |  Dhaka 	  |  Demra 	      |  Sarulia 	      | 1361      |
 | Dhaka 	 |  Dhaka 	  |  Demra 	      |  Matuail 	      | 1362      |
