@@ -1,4 +1,4 @@
-# bd_locations
+# BD Locations
 This repository contains a sql file which includes all the Division, District, Thana, Post code of Bangladesh.
 
 Sample data format:
